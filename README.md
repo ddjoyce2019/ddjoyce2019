@@ -7,7 +7,7 @@
 
 <br>
 
-Technically savvy M.S. Robotics candidate at the Georgia Institute of Technology. Computer Engineering graduate of Clemson University. Targeting an entry level full-time position in robotics software, computer vision systems, software engineering, AI/ML, or embedded systems to apply and enhance acquired software and engineering skills.
+I am a passionate robotics enthusiast, currently pursuing an M.S. in Robotics at the Georgia Institute of Technology. My research interests lie at the intricate fusion of computer vision and A.I. within the exciting realm of robotics. With core emphases in perception, artificial intelligence, and human-robot interaction, I aim to revolutionize how robots see the world and jointly interact with humans. I am excited about the endless possibilities that lie ahead in shaping a future where robotics plays a transformative role. Let's connect and explore the exciting intersections of technology and robotics!
 
 <br><br>
 
